@@ -7,21 +7,21 @@ O usuário pode navegar entre os modelos utilizando setas laterais, com animaç�
 
 ## 🚀 Funcionalidades
 
-- Slider animado com transições suaves  
-- Navegação por setas (anterior / próximo)  
-- Indicador numérico do slide atual  
-- Indicadores visuais (dots) sincronizados  
-- Layout moderno e responsivo  
-- Animações de entrada para imagem e conteúdo  
+* Slider animado com transições suaves  
+* Navegação por setas (anterior / próximo)  
+* Indicador numérico do slide atual  
+* Indicadores visuais (dots) sincronizados  
+* Layout moderno e responsivo  
+* Animações de entrada para imagem e conteúdo  
 
 ---
 
 ## 📂 Estrutura do projeto
 
-- `index.html` — Estrutura principal da página  
-- `style.css` — Estilos, layout e animações  
-- `script.js` — Lógica do slider e interatividade  
-- `/img` — Imagens dos carros, logo e setas  
+* `index.html` — Estrutura principal da página  
+* `style.css` — Estilos, layout e animações  
+* `script.js` — Lógica do slider e interatividade  
+* `/img` — Imagens dos carros, logo e setas  
 
 ---
 
@@ -31,8 +31,8 @@ O usuário pode navegar entre os modelos utilizando setas laterais, com animaç�
 
 ```bash
 git clone https://github.com/PietroHenriqueAndrade/FP-Selection.git
-cd fp-selection
-
+cd fp-selection 
+```
 
 ## 🛠️ Tecnologias
 
